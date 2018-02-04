@@ -18,7 +18,7 @@ const About = () =>  {
             </div>
             <div className='textBody'>
               <h2><strong>Tell us where you are.</strong></h2>
-              <li><strong>TourGuide</strong> uses advanced AI natural language processing to determine what the user is requesting</li>
+              <li><strong>TourGuide</strong> uses an advanced routing and navigation algorithm to determine the best way for you to explore an area, decisions are made based on your preferences. </li>
             </div>
           </div>
           <div className='numberList'>
